@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "GD_ChaninofFCommand (USR) [GD_ChainOfCommand]", "GD_ChaninofFCommand\GD_ChaninofFCommand.rnrproj", "{5F77C70B-8D71-4164-A5DA-64303E7A0322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F77C70B-8D71-4164-A5DA-64303E7A0322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F77C70B-8D71-4164-A5DA-64303E7A0322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803DBE4F-2B82-43AE-AE00-441AF61EEE99}
+	EndGlobalSection
+EndGlobal
